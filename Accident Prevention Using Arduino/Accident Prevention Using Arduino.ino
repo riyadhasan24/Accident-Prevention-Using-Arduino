@@ -2,7 +2,7 @@
  * By Md. Riyad Hasan
  */
  
- const int Sensor = 2; // Digital pin 2 for the proximity sensor
+const int Sensor = 2; // Digital pin 2 for the proximity sensor
 const int Motor = 5;           // Digital pin 5 for the motor
 const int Buzzer = 7;          // Digital pin 7 for the buzzer
 
